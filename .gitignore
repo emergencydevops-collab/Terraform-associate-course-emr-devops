@@ -2,8 +2,7 @@
 #/FUTURE-TOPICS
 #.gitignore
 
-# macOS Files
-.DS_Store
+
 
 # Ignore .sh files
 #*.sh
