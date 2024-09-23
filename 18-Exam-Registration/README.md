@@ -51,3 +51,4 @@
 10. You will get the status of your exam (pass / fail)
 11. Email will be sent to you by **youracclaim** with your badge information
 12. Email will be sent to you by **HashiCorp** about your score report 
+##
